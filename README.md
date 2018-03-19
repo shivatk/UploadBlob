@@ -1,6 +1,6 @@
-# UploadBlob
+t# UploadBlob
 
 
 For the AirWatch API
 
-The UploadBlob API is leveraged to upload applications and packages into the AirWatch database. 
+The UploadBlob API - To upload applications and packages into the AirWatch database. 
